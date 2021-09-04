@@ -19,10 +19,12 @@
 
 [致传统企业朋友：不够痛就别微服务，有坑](https://mp.weixin.qq.com/s/tHRl5OQHY2mNXqKwACCVWw) ⭐️️️️⭐
 
+
 ## 创业
 [做To B，一定要避免9类错误！](https://mp.weixin.qq.com/s/p6IiW8OCfXMEiuCOFfr6Gw) ⭐️⭐️
 
-## 管理
 [成大事者，必须经历的三次跃升](https://mp.weixin.qq.com/s/3MeH3jH57eVmkHbvzdRRqw) ⭐️⭐️
 
 [领导者不能否认人性，但是必须要有杀性](https://mp.weixin.qq.com/s/CD_OYKW469pV-eUCHkBjJw) ⭐️
+
+[长期主义，就是扔掉投票器，踏上称重机](https://mp.weixin.qq.com/s/jyAv_9Se1dwNRU00ux-VEg) ⭐️⭐️
