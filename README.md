@@ -3,10 +3,10 @@
 
 🌱 持续更新，`Welcome Contributor`！
 
-    ⭐️⭐️⭐️⭐️️️️ ️️️     解读技术真谛，洞见技术趋势。必读。
-    ⭐️⭐️⭐️       技术解读深入浅出，生产环境最佳实践。强烈推荐。
-    ⭐️⭐️️️️        技术原理解析，讲解透彻。好文推荐。
-    ⭐️️️️         技术入门及使用场景介绍。拓展视野。
+    ⭐️⭐️⭐️⭐️️️️ ️️️     必读。
+    ⭐️⭐️⭐️       强烈推荐。
+    ⭐️⭐️️️️        好文推荐。
+    ⭐️️️️         拓展视野。
 
     🌛 ️       工具集、经验分享或名人轶事。
 
@@ -15,16 +15,14 @@
 --------------------------------------------------------
 
 ## 微服务架构
-[微服务拆分之道](https://mp.weixin.qq.com/s/JfKxw8qxOmuiIdIGrDMkOw)  ⭐️⭐️️️️⭐
+1. [微服务拆分之道](https://mp.weixin.qq.com/s/JfKxw8qxOmuiIdIGrDMkOw)  ⭐️⭐️️️️⭐
 
-[致传统企业朋友：不够痛就别微服务，有坑](https://mp.weixin.qq.com/s/tHRl5OQHY2mNXqKwACCVWw) ⭐️️️️⭐
+2. [致传统企业朋友：不够痛就别微服务，有坑](https://mp.weixin.qq.com/s/tHRl5OQHY2mNXqKwACCVWw) ⭐️️️️⭐
 
 
 ## 创业
-[做To B，一定要避免9类错误！](https://mp.weixin.qq.com/s/p6IiW8OCfXMEiuCOFfr6Gw) ⭐️⭐️
-
-[成大事者，必须经历的三次跃升](https://mp.weixin.qq.com/s/3MeH3jH57eVmkHbvzdRRqw) ⭐️⭐️
-
-[领导者不能否认人性，但是必须要有杀性](https://mp.weixin.qq.com/s/CD_OYKW469pV-eUCHkBjJw) ⭐️
-
-[长期主义，就是扔掉投票器，踏上称重机](https://mp.weixin.qq.com/s/jyAv_9Se1dwNRU00ux-VEg) ⭐️⭐️
+1. [做To B，一定要避免9类错误！](https://mp.weixin.qq.com/s/p6IiW8OCfXMEiuCOFfr6Gw) ⭐️⭐️
+2. [成大事者，必须经历的三次跃升](https://mp.weixin.qq.com/s/3MeH3jH57eVmkHbvzdRRqw) ⭐️⭐️
+3. [领导者不能否认人性，但是必须要有杀性](https://mp.weixin.qq.com/s/CD_OYKW469pV-eUCHkBjJw) ⭐️
+4. [长期主义，就是扔掉投票器，踏上称重机](https://mp.weixin.qq.com/s/jyAv_9Se1dwNRU00ux-VEg) ⭐️⭐️
+5. [钉钉叶军：ToB最容易被忽视的几个增长问题](https://mp.weixin.qq.com/s/O-yxujkM6S_nigRI1mxDfQ) ⭐️⭐️
