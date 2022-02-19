@@ -14,8 +14,10 @@
 
 ## 微服务架构
 * [微服务拆分之道](https://mp.weixin.qq.com/s/JfKxw8qxOmuiIdIGrDMkOw)  ⭐️⭐️️️️⭐
-* [我总结的30条架构原则](https://mp.weixin.qq.com/s/a6hzgn8-ZqOpXZd_OQ_cXQ)  ⭐️⭐️️️️⭐
+* [做了5年基础架构后，我总结的42条经验](https://mp.weixin.qq.com/s/SVWUhTe5Rux2GWP-Ole3NQ) ️⭐️️️️⭐
+* [我总结的30条架构原则](https://mp.weixin.qq.com/s/a6hzgn8-ZqOpXZd_OQ_cXQ) ️⭐️️️️⭐
 * [致传统企业朋友：不够痛就别微服务，有坑](https://mp.weixin.qq.com/s/tHRl5OQHY2mNXqKwACCVWw) ⭐️️️️⭐
+* [怎么理解Web 3.0？](https://mp.weixin.qq.com/s/dtAGRDWGpN9r1p2Pr1WZaA) ⭐️
 * [如何交接复杂的遗留系统？](https://mp.weixin.qq.com/s/P0fayOJK7G_mnSaralG3vQ) ⭐️
 * [我总结了22条API设计的最佳实践](https://mp.weixin.qq.com/s/doQsjLpZ4F68GtK7XR5QDQ) ⭐️
 
